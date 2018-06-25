@@ -1,4 +1,4 @@
-#YO WTF BREH!
+#YO BREH!
 
 {% from "apache/map.jinja" import apache with context %}
 
